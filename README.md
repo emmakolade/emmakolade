@@ -25,7 +25,7 @@ I’m a full-stack developer. Being a developer allows me to not only develop cl
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
 
-I am passionate about organizational growth and move  
+I am passionate about organizational growth and motivated by RESULT!  
   
 
 <br/>  
