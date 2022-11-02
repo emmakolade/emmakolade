@@ -45,3 +45,7 @@ I’m a full-stack developer. Being a developer allows me to not only develop cl
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/akoladedev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=emmakolade&&style=flat-square" align="left" />
+</div>  
