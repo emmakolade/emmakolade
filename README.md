@@ -6,7 +6,6 @@ Full-Stack Developer
 
 I’m a full-stack developer. Being a developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support. I specialize in building robust backends that do all the heavy lifting for apps or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I am passionate about organizational growth and motivated by RESULT!
 
-* 🖥️  See my portfolio at [akolade.portfolio](http://kolade.dev)
 * ✉️  You can contact me at [emmakolade@gmail.com](mailto:emmakolade@gmail.com)
 * 🚀  I'm currently working on [EmmaKolade Ecommerce](http://emmakolade.com)
 * 🧠  I'm learning and building stuff with Django
