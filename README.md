@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I’m a full-stack developer. Being a developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support. I specialize in building robust backends that do all the heavy lifting for apps or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I am passionate about organizational growth and motivated by RESULT!
+I’m a python developer. Being a developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support. I specialize in building robust backends that do all the heavy lifting for apps or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I am passionate about organizational growth and motivated by RESULT!
 
 * ✉️  You can contact me at [emmakolade@gmail.com](mailto:emmakolade@gmail.com)
 * 🚀  I'm currently working on [EmmaKolade Ecommerce](http://emmakolade.com)
