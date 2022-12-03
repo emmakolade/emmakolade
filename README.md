@@ -3,10 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * ✉️  You can contact me at [emmakolade@gmail.com](mailto:emmakolade@gmail.com)
-* 🚀  I'm currently working on [EmmaKolade Ecommerce](http://emmakolade.com)
-* 🧠  I'm learning and building stuff with Django
-* 🤝  I'm open to collaborating on interesting projects as a developer
-* ⚡  I can stay up all night.😁
 
 ### Skills
 
