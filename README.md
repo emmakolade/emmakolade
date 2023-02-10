@@ -6,7 +6,7 @@ Backend Developer
 
 * 🖥️  See my portfolio at [Akolade](http://akolade.up.railway.app)
 * ✉️  You can contact me at [emmakolade@gmail.com](mailto:emmakolade@gmail.com)
-* 🚀  I'm currently working on [EmmaKolade Ecommerce](http://emmakolade.com)
+* 🚀  I'm currently working on [Django Learn Hub](https://github.com/emmakolade/Django-Learn-Hub)
 * 🧠  I'm learning and building stuff with Django
 * 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I can stay up all night.😁
