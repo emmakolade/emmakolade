@@ -5,7 +5,6 @@ Backend Developer
 -----------------
 
 * ✉️  You can contact me at [emmakolade@gmail.com](mailto:emmakolade@gmail.com)
-* 🚀  I'm currently working on [vastu](https://github.com/emmakolade/vastu)
 * 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I can stay up all night.😁
 
